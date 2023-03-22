@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "20230322",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "20230322::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-20230322-Debug-9479d1cf446462976e2d.json",
+					"name" : "20230322",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feibo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feibo-Debug-86ff0b796a96025827cf.json",
+					"name" : "feibo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nixu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nixu-Debug-94e78e5945cf8aea29ec.json",
+					"name" : "nixu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "remove::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-remove-Debug-51bf70c86cd27217c696.json",
+					"name" : "remove",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/code/c/20230322/cmake-build-debug",
+		"source" : "D:/code/c/20230322"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
